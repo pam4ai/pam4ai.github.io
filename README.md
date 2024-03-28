@@ -6,6 +6,6 @@
 * Research
 * Publications
     - Conference stats
-* Projects
+* Grants
 * Tools
 * Recruiting
