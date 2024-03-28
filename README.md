@@ -2,7 +2,7 @@
 
 ## Structure
 
-* Members
+* [Members](members.md)
 * Research
 * Publications
     - Conference stats
